@@ -22,7 +22,6 @@ https://www.itwonderlab.com/en/istio-in-local-kubernetes/
 https://www.istio.io/latest/docs/setup/getting-started/
 
 5. Istio Patterns: Traffic Splitting in Kubernetes (Header/Cookie Based):
-6. 
 https://www.itwonderlab.com/en/istio-patterns-traffic-splitting-in-kubernetes-header-based/
 
 6. Istio Patterns: Traffic Splitting in Kubernetes (Canary Release):
