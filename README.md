@@ -28,3 +28,6 @@ https://www.itwonderlab.com/en/istio-patterns-traffic-splitting-in-kubernetes/
 # 6. Istio Patterns: Traffic Splitting in Kubernetes (Header/Cookie Based):
 
 https://www.itwonderlab.com/en/istio-patterns-traffic-splitting-in-kubernetes-header-based/
+
+# 7. Istio: Install Multicluster
+https://istio.io/latest/docs/setup/install/multicluster/
